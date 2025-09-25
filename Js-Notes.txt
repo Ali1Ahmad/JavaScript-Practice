@@ -1,0 +1,5 @@
+const : can not be changed
+
+var : was used earlier but because of scope issue (no scope boundries) it is not in use
+
+let : instead of var , now var is being used and it respects the scope boundries
