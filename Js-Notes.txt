@@ -3,3 +3,25 @@ const : can not be changed
 var : was used earlier but because of scope issue (no scope boundries) it is not in use
 
 let : instead of var , now var is being used and it respects the scope boundries
+
+"use strict" :  it is writen at the top of the file to declare that this code is the newer version of the Js
+              note the older one
+
+
+alert("some thing") : it is used to pop up in the browser
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+DATA TYPES:
+
+number
+bigInt
+string
+boolean
+null => it is an object => stand alone value -> empty value  e.g: you request temprature from a server. server cannot calculate it, if it sends temprature=0, then 0 is a temprature. in such cases we use "null"
+undefined => varriable declared but not assigned any value
+symbol => uniqnes
+Objects
+
+
+typeof to check the datatype 
