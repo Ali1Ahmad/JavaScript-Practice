@@ -25,3 +25,6 @@ Objects
 
 
 typeof to check the datatype 
+
+string : "Ali" --> boolean : 1 / true 
+string : "" --> boolean : 0 / false 
