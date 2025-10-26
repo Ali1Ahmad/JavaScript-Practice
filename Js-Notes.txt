@@ -2,7 +2,7 @@ const : can not be changed
 
 var : was used earlier but because of scope issue (no scope boundries) it is not in use
 
-let : instead of var , now var is being used and it respects the scope boundries
+let : instead of var , now let is being used and it respects the scope boundries
 
 "use strict" :  it is writen at the top of the file to declare that this code is the newer version of the Js
               note the older one
@@ -28,3 +28,15 @@ typeof to check the datatype
 
 string : "Ali" --> boolean : 1 / true 
 string : "" --> boolean : 0 / false 
+
+****************************   readline-sync    *********************
+the packaged named: "readline-sync" is installed and then used to take input from the console 
+
+***************************  Strict check "===" *********************
+//   a==b   normal check, check for the value only
+    console.log("2"==2)
+    console.log(2==2)
+
+//   a===b   strict check, check for the value and the "datatype"
+    console.log("2"===2)
+    console.log(2===2)

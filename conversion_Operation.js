@@ -34,10 +34,39 @@ let valueInNumber=Number(score)
 
 
 
-let stringNumber=996654
-console.log(stringNumber)
-console.log(typeof stringNumber,"\n")
+// let stringNumber=996654
+// console.log(stringNumber)
+// console.log(typeof stringNumber,"\n")
 
-let toNumber=String(stringNumber)
-console.log(toNumber)
-console.log(typeof toNumber,"\n")
+// let toNumber=String(stringNumber)
+// console.log(toNumber)
+// console.log(typeof toNumber,"\n")
+
+
+// let string1="I am Ali Ahmad ";
+// let string2="I am the CEO of TechSol. LLC";
+// let string3=" Located in Sanfranscso USA";
+
+// let intro=string1+string2+string3;
+
+// console.log(intro," Thank You")
+
+
+// *******************  Operations ********************
+
+// Negative 
+
+let val=52
+let negVal=-val
+// console.log(negVal)
+
+// Other operations
+
+// console.log(2+2)
+// console.log(2-2)
+// console.log(4/2)
+// console.log(2*2)
+// console.log(2**3)
+// console.log(2%2)
+
+
