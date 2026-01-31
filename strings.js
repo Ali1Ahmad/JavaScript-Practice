@@ -13,8 +13,8 @@ const repoCount=20
 // console.log(name.charAt(2))
 // console.log(name.indexOf('i'))
 
-// const substring=name.substring(1,7)
-// console.log(substring)
+const substring=name.substring(1,7)
+console.log(substring)
 
 // const sampleString="Hello this is Ali"
 
@@ -26,12 +26,12 @@ const repoCount=20
 // const trimedString=newString.trim()
 // console.log(trimedString)
 
-const url="https://aliahmad.com/ali%20ahmad"
+// const url="https://aliahmad.com/ali%20ahmad"
 
-const cleanedUrl=url.replace("%20","-")
-console.log(cleanedUrl)
+// const cleanedUrl=url.replace("%20","-")
+// console.log(cleanedUrl)
 
-console.log(url.includes("butt"))
+// console.log(url.includes("butt"))
 
-const splitedStringArray=url.split(" ")
-console.log(splitedStringArray)
+// const splitedStringArray=url.split(" ")
+// console.log(splitedStringArray)
